@@ -1,0 +1,10 @@
+C:\HiTech_Project_Ghazar_Ghazarian\MISManagment\bin\Debug\MISManagment.exe.config
+C:\HiTech_Project_Ghazar_Ghazarian\MISManagment\bin\Debug\MISManagment.exe
+C:\HiTech_Project_Ghazar_Ghazarian\MISManagment\bin\Debug\MISManagment.pdb
+C:\HiTech_Project_Ghazar_Ghazarian\MISManagment\obj\Debug\MISManagment.csprojAssemblyReference.cache
+C:\HiTech_Project_Ghazar_Ghazarian\MISManagment\obj\Debug\MISManagment.Properties.Resources.resources
+C:\HiTech_Project_Ghazar_Ghazarian\MISManagment\obj\Debug\MISManagment.csproj.GenerateResource.cache
+C:\HiTech_Project_Ghazar_Ghazarian\MISManagment\obj\Debug\MISManagment.csproj.CoreCompileInputs.cache
+C:\HiTech_Project_Ghazar_Ghazarian\MISManagment\obj\Debug\MISManagment.exe
+C:\HiTech_Project_Ghazar_Ghazarian\MISManagment\obj\Debug\MISManagment.pdb
+C:\HiTech_Project_Ghazar_Ghazarian\MISManagment\obj\Debug\MISManagment.GUI.MISManager.resources

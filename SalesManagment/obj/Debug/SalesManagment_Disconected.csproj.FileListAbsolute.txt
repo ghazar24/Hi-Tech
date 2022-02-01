@@ -1,0 +1,10 @@
+C:\HiTech_Project_Ghazar_Ghazarian\SalesManagment\bin\Debug\SalesManagment.exe.config
+C:\HiTech_Project_Ghazar_Ghazarian\SalesManagment\bin\Debug\SalesManagment.exe
+C:\HiTech_Project_Ghazar_Ghazarian\SalesManagment\bin\Debug\SalesManagment.pdb
+C:\HiTech_Project_Ghazar_Ghazarian\SalesManagment\obj\Debug\SalesManagment_Disconected.csprojAssemblyReference.cache
+C:\HiTech_Project_Ghazar_Ghazarian\SalesManagment\obj\Debug\SalesManagment.GUI.Sales.resources
+C:\HiTech_Project_Ghazar_Ghazarian\SalesManagment\obj\Debug\SalesManagment.Properties.Resources.resources
+C:\HiTech_Project_Ghazar_Ghazarian\SalesManagment\obj\Debug\SalesManagment_Disconected.csproj.GenerateResource.cache
+C:\HiTech_Project_Ghazar_Ghazarian\SalesManagment\obj\Debug\SalesManagment_Disconected.csproj.CoreCompileInputs.cache
+C:\HiTech_Project_Ghazar_Ghazarian\SalesManagment\obj\Debug\SalesManagment.exe
+C:\HiTech_Project_Ghazar_Ghazarian\SalesManagment\obj\Debug\SalesManagment.pdb

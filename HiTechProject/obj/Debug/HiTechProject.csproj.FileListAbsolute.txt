@@ -1,0 +1,15 @@
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\bin\Debug\HiTechProject.exe.config
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\bin\Debug\HiTechProject.exe
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\bin\Debug\HiTechProject.pdb
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\obj\Debug\HiTechProject.csprojAssemblyReference.cache
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\obj\Debug\HiTechProject.GUI.LogIn.resources
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\obj\Debug\HiTechProject.Properties.Resources.resources
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\obj\Debug\HiTechProject.csproj.GenerateResource.cache
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\obj\Debug\HiTechProject.csproj.CoreCompileInputs.cache
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\obj\Debug\HiTechProject.exe
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\obj\Debug\HiTechProject.pdb
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\obj\Debug\HiTechProject.Form1.resources
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\bin\Debug\SalesManagment.exe
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\bin\Debug\SalesManagment.pdb
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\bin\Debug\SalesManagment.exe.config
+C:\HiTech_Project_Ghazar_Ghazarian\HiTechProject\obj\Debug\HiTechProject.csproj.CopyComplete
